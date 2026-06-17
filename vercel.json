@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/plywood_billing.html"
+    }
+  ]
+}
