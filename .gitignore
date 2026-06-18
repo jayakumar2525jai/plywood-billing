@@ -1,0 +1,6 @@
+.vercel
+node_modules/
+scratch_logs.txt
+test_firebase.js
+query_firestore.js
+extract_logo.js
